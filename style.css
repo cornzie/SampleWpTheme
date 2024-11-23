@@ -1,0 +1,21 @@
+/** 
+Theme Name: WIS Event Theme
+Theme URI: https://udeh.ng
+Description: A custom theme to support the 'wis_event' custom post type.
+Author: Cornelius Udeh
+Author URI: http://udeh.ng
+Version: 1.0.0
+Text Domain: wis-events-theme
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
